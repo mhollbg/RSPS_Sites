@@ -1,7 +1,0 @@
-<?xml version="1.0" standalone="no"?>
-<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
-<LogFile titleName="HMIAlarms Log.xml" projectName="C:\Users\BG_MT\bg_industrial_control\siemens\autocore\tjx_demo\HMIAlarms.xlsx" typeText="Type" messageText="Message" timeText="Time">
-  <LogEntry type="Information" dateTime="12:36:31 PM">
-    <Message>Import finished: 288 discrete alarms; 0 analog alarms</Message>
-  </LogEntry>
-</LogFile>
