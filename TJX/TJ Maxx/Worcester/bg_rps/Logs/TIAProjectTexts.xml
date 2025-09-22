@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="TIAProjectTexts.xml" projectName="C:\Users\BG_MT\Documents\TIAProjectTexts.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Information" dateTime="1:58:04 PM">
+    <Message>Text import started.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="1:58:04 PM">
+    <Message>The text in row '2' with internal ID 'JCFsdsKWXVAsgXNaQBaucph0dC/hCVF6ka+c11P3+iuGKNQg7sNr7bANbrhBd3YyVlVr8mElTUOk6p0r1f5g5TgcNVYqMwijI9Ns5wokl92dMXcK5TxM1jRoiL+W+Nz95ZIYSjsqGrSJgdDgwdjspR1I7J4i1QMnCzQ68D6iLhdKl0DdtubjZ3MvBxkJ802onxMmZ4rn33Y8zXoz1abHlvDu2v76w4AI2HFPwxsdkl+phw0dbuUkk96agrFU7P2SU7zGb2WABQnOp2tVroWaHw==' is different in the source project  'SSRxx' and the current project 'RPSxx'.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="1:58:04 PM">
+    <Message>The text in row '3' with internal ID 'JCFsdsKWXVAsgXNaQBaucph0dC/hCVF6ka+c11P3+iuGKNQg7sNr7bANbrhBd3YyVlVr8mElTUOk6p0r1f5g5TgcNVYqMwijI9Ns5wokl92dMXcK5TxM1jRoiL+W+Nz95ZIYSjsqGrSJgdDgwdjspR1I7J4i1QMnCzQ68D6iLhdKl0DdtubjZ3MvBxkJ802onxMmZ4rn33Y8zXoz1abHlkl3F2lzRJMvDT3xvoO+nrfrOUCMgkCNtqWAvUgsY30LCm5697egIR1zwh1mptzYNw==' is different in the source project  'SSRxx' and the current project 'RPSxx'.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="1:58:04 PM">
+    <Message>The text in row '4' with internal ID 'JCFsdsKWXVAsgXNaQBaucph0dC/hCVF6ka+c11P3+iuGKNQg7sNr7bANbrhBd3YyVlVr8mElTUOk6p0r1f5g5TgcNVYqMwijI9Ns5wokl92dMXcK5TxM1jRoiL+W+Nz95ZIYSjsqGrSJgdDgwdjspR1I7J4i1QMnCzQ68D6iLhdKl0DdtubjZ3MvBxkJ802onxMmZ4rn33Y8zXoz1abHlp+atxnkYtYN3gpK1KdzSvRBfyNtR7d9eAtzqqX4gAkQPxCpuCazPfAFovYmY0QSkg==' is different in the source project  'SSRxx' and the current project 'RPSxx'.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="1:58:04 PM">
+    <Message>The text in row '5' with internal ID 'JCFsdsKWXVAsgXNaQBaucph0dC/hCVF6ka+c11P3+iuGKNQg7sNr7bANbrhBd3YyVlVr8mElTUOk6p0r1f5g5TgcNVYqMwijI9Ns5wokl92dMXcK5TxM1jRoiL+W+Nz95ZIYSjsqGrSJgdDgwdjspR1I7J4i1QMnCzQ68D6iLhdKl0DdtubjZ3MvBxkJ802onxMmZ4rn33Y8zXoz1abHlkl3F2lzRJMvDT3xvoO+nrcMW9vwQ29ePJpYgbVjvhDVy9MlnBkBdznclpBU3El/uA==' is different in the source project  'SSRxx' and the current project 'RPSxx'.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="1:58:04 PM">
+    <Message>The text in row '6' with internal ID 'JCFsdsKWXVAsgXNaQBaucph0dC/hCVF6ka+c11P3+iuGKNQg7sNr7bANbrhBd3YyVlVr8mElTUOk6p0r1f5g5TgcNVYqMwijI9Ns5wokl92dMXcK5TxM1jRoiL+W+Nz95ZIYSjsqGrSJgdDgwdjspR1I7J4i1QMnCzQ68D6iLhdKl0DdtubjZ3MvBxkJ802onxMmZ4rn33Y8zXoz1abHlkl3F2lzRJMvDT3xvoO+nreJzdtIzsVzXeFdFndMIF50/LO4bt/rZ6sCbyqiA5exCQ==' is different in the source project  'SSRxx' and the current project 'RPSxx'.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="1:58:04 PM">
+    <Message>The text in row '7' with internal ID 'JCFsdsKWXVAsgXNaQBaucph0dC/hCVF6ka+c11P3+iuGKNQg7sNr7bANbrhBd3YyVlVr8mElTUOk6p0r1f5g5TgcNVYqMwijI9Ns5wokl92dMXcK5TxM1jRoiL+W+Nz95ZIYSjsqGrSJgdDgwdjspR1I7J4i1QMnCzQ68D6iLhdKl0DdtubjZ3MvBxkJ802onxMmZ4rn33Y8zXoz1abHlkl3F2lzRJMvDT3xvoO+nreBAbvrBmKbrrkVva7lRx+rJM9ppzFtLu/ZHF3cGXx4gw==' is different in the source project  'SSRxx' and the current project 'RPSxx'.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="1:58:04 PM">
+    <Message>The text in row '8' with internal ID 'JCFsdsKWXVAsgXNaQBaucph0dC/hCVF6ka+c11P3+iuGKNQg7sNr7bANbrhBd3YyVlVr8mElTUOk6p0r1f5g5TgcNVYqMwijI9Ns5wokl92dMXcK5TxM1jRoiL+W+Nz95ZIYSjsqGrSJgdDgwdjspR1I7J4i1QMnCzQ68D6iLhdKl0DdtubjZ3MvBxkJ802onxMmZ4rn33Y8zXoz1abHlqGkCudgHVIPnCoGv9HBc1z/rEHOZlO7mHIpR8W2CWxgL4cCLWD45JsiQCb+/1RmIg==' is different in the source project  'SSRxx' and the current project 'RPSxx'.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="1:58:04 PM">
+    <Message>Text import completed with warnings.</Message>
+  </LogEntry>
+</LogFile>
